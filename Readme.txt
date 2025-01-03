@@ -8,6 +8,10 @@ This is a simple React application for managing users. It allows you to add new 
 - Delete users from the list.
 - Display user details such as name, email, and company.
 
+To run the file:
+```bash
+npm run dev
+
 ## Prerequisites
 
 Before running the project, ensure that you have the following installed:
